@@ -1,7 +1,6 @@
 export interface PostMetaData {
-    data: ReactNode;
-    title: string;
-    date: string;
-    subtitle: string;
-    slug: string;
+  title: string;
+  date: string;
+  subtitle: string;
+  slug: string;
 }
